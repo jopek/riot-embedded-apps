@@ -1,0 +1,15 @@
+{
+  "name": "container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "riot widget.tag && riot container.tag"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "riot": "^2.5.0"
+  }
+}
